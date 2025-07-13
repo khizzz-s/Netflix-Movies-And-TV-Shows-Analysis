@@ -324,6 +324,16 @@ GROUP BY category;
 - Popular genres and ratings reflect user demand and preferences.
 - Text analysis helps categorize and better understand content themes.
 
+---
+
+## Technologies Used
+
+- **PostgreSQL** – relational database used to store and query data
+- **SQL** – writing queries to analyze, aggregate, and transform the dataset
+- **Kaggle Dataset** – publicly available dataset used for analysis
+- **Optional tools** – pgAdmin, DBeaver, or other SQL client tools for running and testing queries
+
+
 ## Author
 
 **Syed Ateeb Shah**\
