@@ -1,4 +1,4 @@
-## Netflix Movies and TV Shows Data Analysis using SQL
+## Netflix Movies and TV Shows Analysis using SQL
 
 ![](https://github.com/khizzz-s/Netflix-Movies-TV-Shows-Analysis/blob/main/logo.png)
 
@@ -328,5 +328,5 @@ GROUP BY category;
 
 **Syed Ateeb Shah**\
 This project is part of my portfolio to demonstrate SQL data analysis skills using PostgreSQL.\
-For questions, feedback, or collaboration opportunities, feel free to connect or open an issue.
+For questions and feedback, feel free to connect.
 
