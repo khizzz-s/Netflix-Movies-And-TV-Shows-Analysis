@@ -1,5 +1,6 @@
 ## Netflix Movies and TV Shows Data Analysis using SQL
 
+![](https://github.com/khizzz-s/Netflix-Movies-TV-Shows-Analysis/blob/main/logo.png)
 
 ## Overview
 
